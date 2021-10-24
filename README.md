@@ -6,6 +6,8 @@
 
 - [Golang](#golang)
 - [LeetCode](#leetcode)
+- [算法](#算法)
+- [数据结构](#数据结构)
 - [随笔](#随笔)
 
 ## Golang
@@ -15,6 +17,14 @@
 ## Leetcode
 
 ......
+
+## 算法
+
+......
+
+## 数据结构
+
+- [Stack](https://github.com/zhong-my/blog/issues/2)
 
 ## 随笔
 
