@@ -11,6 +11,7 @@
 - [系统设计](#系统设计)
 - [设计模式](#设计模式)
 - [编程实践](#编程实践)
+- [Linux](#Linux)
 - [Golang](#Golang)
 - [其他](#其他)
 
@@ -29,6 +30,10 @@
 ### 设计模式
 
 ### 编程实践
+
+### Linux
+
+1. [Linux基础 - 概述](https://github.com/zhong-my/blog/issues/7)
 
 ### Golang
 
