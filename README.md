@@ -22,6 +22,7 @@
 ### 计算机基础
 
 1. [计算机网络基础 - 概述](https://github.com/zhong-my/blog/issues/6)
+2. [计算机操作系统 - 概述](https://github.com/zhong-my/blog/issues/8)
 
 ### 数据库
 
